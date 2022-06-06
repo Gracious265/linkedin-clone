@@ -13,7 +13,7 @@ function App() {
         < Header />  
        {/* App Body */ }
        <div className='app__body'>
-       < Sidebar />
+        < Sidebar />
        </div>
 
           {/* Sidebar */ }

@@ -13,12 +13,12 @@ const Sidebar = () => {
       </div>
 
       <div className="sidebar__stats">
-        <div className="sidebar_stat">
+        <div className="sidebar__stat">
           <p>Who viewed you</p>
           <p className="sidebar__statNumber">2,453</p>
         </div>
 
-        <div className="sidebar_stat">
+        <div className="sidebar__stat">
           <p>Who viewed you</p>
           <p className="siderbar__statNumber">2,789</p>
         </div>
